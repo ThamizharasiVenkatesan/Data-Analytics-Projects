@@ -4,31 +4,20 @@ Welcome to my Data Analytics Exploration Repository! 🚀 Here, you'll find a co
 
 ## Table of Contents
 
-1. [Project 1: Exploratory Data Analysis (EDA)](./project1)
-   - Dive deep into the world of EDA, uncovering trends, outliers, and correlations that tell compelling stories hidden within the data.
+1. [Project 1: Instagram User Analysis](./project1)
+   - Dive deep into the world of realtime data, uncovering trends, outliers, and correlations that tell compelling stories hidden within the data.
 
-2. [Project 2: Predictive Modeling](./project2)
-   - Embark on a predictive journey as I employ machine learning algorithms to forecast future trends and make data-driven predictions.
+2. [Project 2: IMDB Moive Analysis](./project2)
+   - Embark on a excel sheet journey as I employ Ms-Excel to analyse trends and make visual representation using charts.
 
-3. [Project 3: Data Visualization Mastery](./project3)
+3. [Project 3:ABC call volume trends](./project3)
    - Experience the power of visualization as I transform raw data into stunning visual representations, making complex information accessible and engaging.
 
-4. [Assignment: Statistical Analysis](./assignment1)
+4. [Assignment: Hiring Process Analysis](./assignment1)
    - Tackle statistical challenges head-on, demonstrating proficiency in statistical methods to draw meaningful conclusions from datasets.
 
+And few more assignments.
 ## Technologies Used
-
-- Python
-- Jupyter Notebooks
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/data-analytics-exploration.git
-   cd data-analytics-exploration
+- Database 
+- Ms-Excel
+- SQL
